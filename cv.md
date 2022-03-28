@@ -1,24 +1,24 @@
-##*rsschool-cv*
+##*rsschool-cv*##
 
-#**Dmitry Procevnikov**
+#**Dmitry Procevnikov**#
 
-###Junior Frontend Developer
+###Junior Frontend Developer###
 
-###**Contact information:**
+###**Contact information:**##
 **E-mail:** dmitrijprocevnikov@gmail.com
 **GitHub:** DmitrijProcevnikov
 **Telegram:** https://t.me/Dmitriy_Procevnikov
 
-###**About Me**
+###**About Me**###
 
 I have good interpersonal skills, am an excellent team worker and very willing to learn and develop new skills!
 
-###**Professional Skills**
+###**Professional Skills**###
 
 **Web-development:** HTML, CSS
 **Version control:** GIT, Github
 
-###**Code example**
+###**Code example**###
 ```
 function sum(a, b) {
   return a + b;
@@ -28,15 +28,15 @@ let result = sum(1, 2);
 console.log(result);
 ```
 
-###**My project**
+###**My project**###
 
 https://rolling-scopes-school.github.io/dmitrijprocevnikov-JSFEPRESCHOOL/random-jokes/
 
-###**Education**
+###**Education**###
 
 Belarusion State Academy of Music
 
-###**Languages**
+###**Languages**###
 
 **Belarusion:** Native
 **Russian:** Native
