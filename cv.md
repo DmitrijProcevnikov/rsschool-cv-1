@@ -6,7 +6,7 @@
 
 ###**Contact information:**
 **E-mail:** dmitrijprocevnikov@gmail.com
-**GitHub:** DmitrijProcevn
+**GitHub:** DmitrijProcevnikov
 **Telegram:** https://t.me/Dmitriy_Procevnikov
 
 ###**About Me**
