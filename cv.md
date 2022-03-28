@@ -5,9 +5,9 @@
 ### Junior Frontend Developer
 
 ### **Contact information:**
-**E-mail:** dmitrijprocevnikov@gmail.com
-**GitHub:** DmitrijProcevnikov
-**Telegram:** https://t.me/Dmitriy_Procevnikov
++ **E-mail:** dmitrijprocevnikov@gmail.com
++ **GitHub:** DmitrijProcevnikov
++ **Telegram:** https://t.me/Dmitriy_Procevnikov
 
 ### **About Me**
 
@@ -15,8 +15,8 @@ I have good interpersonal skills, am an excellent team worker and very willing t
 
 ### **Professional Skills**
 
-**Web-development:** HTML, CSS
-**Version control:** GIT, Github
++ **Web-development:** HTML, CSS
++ **Version control:** GIT, Github
 
 ### **Code example**
 ```
@@ -38,6 +38,6 @@ Belarusion State Academy of Music
 
 ### **Languages**
 
-**Belarusion:** Native
-**Russian:** Native
-**English:** I try to learn English in every possible way. I use application in smartphone: Duolingo and I use google translate a lot.
++ **Belarusion:** Native
++ **Russian:** Native
++ **English:** I try to learn English in every possible way. I use application in smartphone: Duolingo and I use google translate a lot.
