@@ -1,0 +1,81 @@
+* {
+    margin: 0 0 0 0;
+    padding: 0 0 0 0;
+}
+
+body{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    max-width: 1280px;
+    margin: auto;
+}
+
+header{
+    display: flex;
+    justify-content: center;
+    width: 100%;
+    background: url(/shelter/assets/start-screen-gradient-background.png);
+}
+
+.header{
+    display: flex;
+    width: 94%;
+    height: 90px;
+    justify-content: center;
+    justify-content: space-between;
+    
+}
+
+.text_title{
+    display: flex;
+    height: 90px;
+    flex-direction: column;
+    justify-content: space-evenly;
+}
+
+.text1{
+    display: flex;
+    align-items: center;
+   font-family: Georgia, 'Times New Roman', Times, serif; 
+   font-style: normal;
+   font-weight: 400;
+   line-height: 110%;
+}
+
+.text2{
+    display: flex;
+    align-items: center;
+    font-family: Arial, Helvetica, sans-serif;
+    font-style: normal;
+    font-weight: 400;
+
+}
+
+.title{
+    font-size: 32px;
+    color: #F1CDB3;
+}
+
+.subtitle{
+    font-size: 13px;
+    line-height: 15px;
+    color: #FFFFFF;
+}
+
+#nav{
+    display: flex;
+    width: 443px;
+    text-decoration: none;
+    justify-content: space-between;
+}
+
+.nav_text{
+    line-height: 160%;
+    font-size: 15px;
+    color: #CDCDCD;
+}
+
+#logo1{
+    background: url(/shelter/assets/start-screen-gradient-background.png);
+}
