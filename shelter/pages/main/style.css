@@ -22,11 +22,16 @@ header {
   display: -webkit-box;
   display: -ms-flexbox;
   display: flex;
+  position: relative;
   -webkit-box-pack: center;
       -ms-flex-pack: center;
           justify-content: center;
   width: 100%;
-  background: url(/shelter/assets/start-screen-gradient-background.png);
+  background: transparent;
+}
+
+main {
+  margin-top: -90px;
 }
 
 .header {
@@ -93,6 +98,11 @@ header {
   color: #FFFFFF;
 }
 
+.button:hover {
+  cursor: pointer;
+  text-decoration: underline;
+}
+
 #nav {
   display: -webkit-box;
   display: -ms-flexbox;
@@ -111,6 +121,66 @@ header {
 }
 
 #logo1 {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+  padding: 3% 0 0 3%;
   background: url(/shelter/assets/start-screen-gradient-background.png);
+}
+
+#logo-text {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  height: 322px;
+  margin-top: 90px;
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: normal;
+      -ms-flex-direction: column;
+          flex-direction: column;
+  -webkit-box-pack: justify;
+      -ms-flex-pack: justify;
+          justify-content: space-between;
+}
+
+#dog {
+  margin-top: 90px;
+  width: 58%;
+}
+
+h1 {
+  font-size: 44px;
+  line-height: 130%;
+  color: #FFFFFF;
+  max-width: 310px;
+}
+
+#subheading {
+  font-size: 15px;
+  line-height: 160%;
+  color: #CDCDCD;
+}
+
+#primary {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  width: 207px;
+  height: 52px;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+  border-radius: 50px;
+  color: #292929;
+  background-color: #F1CDB3;
 }
 /*# sourceMappingURL=style.css.map */
